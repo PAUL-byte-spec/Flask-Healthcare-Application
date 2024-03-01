@@ -29,7 +29,7 @@ This repository contains the source code for a web application that collects dat
 
 
 
-git clone https://github.com/<your-username>/healthcare-survey-tool.git
+git clone https://github.com/PAUL-byte-spec/Flask-Healthcare-Application.git
 Use code with caution.
 Install dependencies:
 
